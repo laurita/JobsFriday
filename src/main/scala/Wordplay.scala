@@ -1,3 +1,7 @@
+/**
+ * Friday, 14 March 2014
+ */
+
 import scala.io.Source
 
 object Wordplay {
